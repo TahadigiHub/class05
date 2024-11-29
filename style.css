@@ -1,0 +1,46 @@
+.logo{
+    background-color:rgb(9, 55, 55);
+    color: aliceblue;
+    padding-left: 50px;
+    height: 25vh;
+ font-style: italic;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ padding-top: 50px;
+}
+.home{
+    position: absolute;
+    right: 0;
+    font-family: sans-serif;
+    margin-left: 5%;
+    padding-right: 25px;
+   
+}
+
+.banner{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding-top: 20%;
+    background-color: rgba(0, 0, 0, 0.297);
+    height: 60vh;
+}
+.bg{
+    background-image: url(./bg.jpg.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    height: 75vh;
+}
+
+.img{
+    width: 40vw;
+}
+
+.container{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.footer{
+    background-color: rgb(9, 55, 55);
+    height: 80vh;
+    padding-top: 5%;
+    color: aliceblue;
+}
